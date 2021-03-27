@@ -1,8 +1,8 @@
 {
   "login": {
-    "user": "test@test.com",
-    "password": "test"
-  },
+    "validTo": "2051-03-28T02:04:02Z",
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUYXhDbG91ZCBKV1QiLCJqdGkiOiI2NmViMGNkYS05YmZmLTRiYjEtYWYxNi1iZGQ1Y2UyYWE5YmUiLCJzdGF0ZWZpcHNjb2RlIjoiMDYiLCJjb250YWN0aWQiOiI0IiwiZXhwIjoxNjE2ODk3MDQyLCJpc3MiOiJUYXhDbG91ZC5TZWN1cml0eS5CZWFyZXIiLCJhdWQiOiJUYXhDbG91ZC5TZWN1cml0eS5CZWFyZXIifQ.j-Nv2P42wO9YqUA0RIpIbTNCTYXYA9sAmYwAm4aAnjw"
+},
   "transactions": {
     "total": 81.25,
     "transactionDetails": [
